@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="isometric" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="colorblock.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="8" height="8" offsetx="0" offsety="24">
+  <data encoding="csv">
+9,9,10,6,6,10,11,6,
+9,9,6,6,11,10,6,5,
+6,10,6,9,6,9,11,10,
+11,6,10,11,10,9,10,6,
+10,5,5,10,10,9,11,10,
+6,10,11,5,9,10,9,10,
+6,10,5,6,6,9,9,5,
+6,10,9,11,6,11,9,9
+</data>
+ </layer>
+</map>
